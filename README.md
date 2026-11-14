@@ -1,2 +1,2 @@
 # NIGHT-SPACE-CHAT
-a chat site
+in file zip kham site hast va npm install rosh nazadam .
